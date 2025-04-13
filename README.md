@@ -1,4 +1,4 @@
-# AI Trip Planner 🌍✈️
+# Horizon 🌍✈️
 
 A React-based AI-powered trip planning web application that helps users generate personalized trip plans using Google’s Generative AI and Places API.
 
